@@ -7,4 +7,5 @@ computational linguistics, and biometrics to systematically identify, extract, q
 information.
 
 To find out Restaurant review is positive or negative is a sentiment analysis. 
+
 In this given restaurant review dataset we are using NLP.
